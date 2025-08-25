@@ -1,0 +1,1 @@
+I, Rakesh, have developed a Weather App that provides real-time weather updates such as temperature, humidity, and wind speed for any city. The app is designed with a simple and user-friendly interface, making it easy to access accurate weather information anytime.
